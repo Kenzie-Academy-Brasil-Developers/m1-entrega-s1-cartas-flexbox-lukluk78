@@ -61,9 +61,11 @@ html {
 
 .cardGroup {
     /* display */
+    margin: auto;
     max-width: 710px;
     box-sizing: border-box;
     display: flex;
+    justify-content: center;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
